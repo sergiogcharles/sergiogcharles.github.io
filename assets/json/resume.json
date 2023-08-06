@@ -1,61 +1,158 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sergio Charles",
+    "label": "Mathematician",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sergiocharles@alumni.stanford.edu",
+    "phone": "",
+    "url": "https://sergiogcharles.github.io/",
+    "summary": "A student of mathematics and statistics, interested in creating models of the real-world.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "eigentopology",
+        "url": "https://twitter.com/eigentopology"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "QuantRes Asset Management",
+      "position": "Quantitative Trading Intern",
+      "url": "https://quantres.com/",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "Trading in the global futures, equities and foreign exchange markets.",
+      "highlights": []
+    },
+    {
+      "name": "SS&C Alps Funds",
+      "position": "Quantitative Research Intern",
+      "url": "https://www.alpsfunds.com/",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "• Research and implement statistical arbitrage strategies using mean-version and factor models for trading on the portfolio optimization team. • Construct macroeconomic models for each market sector, using growth, inflation, commodities, and
+      interest rate indicators to analyze deviations between the best fit model and price action of market segments, in order to seek arbitrage opportunities for trading.",
       "highlights": [
-        "Relativity"
+        "Statistical Arbitrage",
+        "Mathematical Modeling",
+        "Convex Optimization"
+      ]
+    },
+    {
+      "name": "IRIS Lab: Intelligence through Robotic Interaction at Scale",
+      "position": "CURIS Research Fellow",
+      "url": "https://www.alpsfunds.com/",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Conducted research on model-based Autonomous Reinforcement Learning (ARL) algorithms using
+      aligned latent models to train agents in the reset-free, non-episodic setting, under Prof. Chelsea Finn in
+      the Stanford Artificial Intelligence Laboratory (SAIL).",
+      "highlights": [
+        "Reinforcement Learning",
+        "Machine Learning",
+        "Research"
+      ]
+    },
+    {
+      "name": "Nvidia",
+      "position": "Machine Learning Research Intern",
+      "url": "",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "• Conducted research on Neural Machine Translation distillation, including Hinton, DistilBERT, and
+      sequence-level interpolation knowledge distillation for Transformer NMT model architectures as part of
+      the Conversational AI team.
+      • Developed a semi-supervised, hybrid distillation combining word-level and sequence-level interpolation
+      distillation for NMT, and implemented NMT distillation as a part of the open-sourced
+      DistillationModelPT framework in NeMo.",
+      "highlights": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Research"
+      ]
+    },
+    {
+      "name": "Stanford Artificial Intelligence Laboratory (SAIL)",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Completed AI for Climate Change Bootcamp advised by Prof. Andrew Ng. Developed weakly
+      supervised global well-pad detection models with Detectron2, leveraging self-training and distillation
+      with a noisy student approach [Xie et al.,
+        2020
+      ] for remote sensing in geologic structural basins.",
+      "highlights": [
+        "Computer Vision",
+        "Machine Learning",
+        "Research"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Stanford University",
+      "area": "Mathematics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2019",
+      "endDate": "2023",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Graduate Probability Theory",
+        "Measure Theory",
+        "Real Analysis",
+        "Abstract Algebra",
+        "Graduate Differential Geometry",
+        "Stochastic Processes",
+        "Stochastic Differential Equations",
+        "Linear Algebra",
+        "Machine Learning",
+        "Mathematical Finance",
+        "Microstructure Theory and Algorithmic Trading"
+      ]
+    },
+    {
+      "institution": "Stanford University",
+      "area": "Statistics",
+      "studyType": "Master of Science",
+      "startDate": "2023",
+      "endDate": "2025",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Oxford",
+      "area": "Mathematics",
+      "studyType": "Visiting Student",
+      "startDate": "2022",
+      "endDate": "2022",
+      "score": "",
+      "courses": [
+        "Probability, Measure & Martingales",
+        "Stochastic Differential Equations",
+        "Foundations of Statistical Inference"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Prize for CS224N Best Custom Project Report",
+      "date": "2021",
+      "summary": "Awarded prize for best project in Stanford's graduate Natural Language Processing course, CS224N Winter 2021."
+    },
+    {
+      "title": "CURIS Research Fellowship",
+      "date": "2022",
+      "summary": "Awarded department fellowship for Computer Science Research."
     }
   ],
   "certificates": [],
@@ -63,12 +160,12 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "Spanish",
+      "fluency": "Classroom"
     }
   ],
   "interests": [],
