@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sergiogcharles
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sergiogcharles/lamanas
+  - sergiogcharles/fadee
+  - sergiogcharles/VQN
+  - sergiogcharles/neuralnet_ode
+  - sergiogcharles/NeMo
