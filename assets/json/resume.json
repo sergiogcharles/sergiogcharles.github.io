@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Sergio Charles",
-    "label": "Mathematician",
+    "label": "Mathematician & Student",
     "image": "",
     "email": "sergiocharles@alumni.stanford.edu",
     "phone": "",
-    "url": "https://sergiogcharles.github.io/",
-    "summary": "A student of mathematics and statistics, interested in creating models of the real-world.",
+    "url": "",
+    "summary": "A student of mathematics and statistics, interested in formulating models of the real-world.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -38,8 +38,7 @@
       "url": "https://www.alpsfunds.com/",
       "startDate": "2023",
       "endDate": "2023",
-      "summary": "• Research and implement statistical arbitrage strategies using mean-version and factor models for trading on the portfolio optimization team. • Construct macroeconomic models for each market sector, using growth, inflation, commodities, and
-      interest rate indicators to analyze deviations between the best fit model and price action of market segments, in order to seek arbitrage opportunities for trading.",
+      "summary": "",
       "highlights": [
         "Statistical Arbitrage",
         "Mathematical Modeling",
@@ -52,9 +51,7 @@
       "url": "https://www.alpsfunds.com/",
       "startDate": "2022",
       "endDate": "2023",
-      "summary": "Conducted research on model-based Autonomous Reinforcement Learning (ARL) algorithms using
-      aligned latent models to train agents in the reset-free, non-episodic setting, under Prof. Chelsea Finn in
-      the Stanford Artificial Intelligence Laboratory (SAIL).",
+      "summary": "",
       "highlights": [
         "Reinforcement Learning",
         "Machine Learning",
@@ -67,12 +64,7 @@
       "url": "",
       "startDate": "2022",
       "endDate": "2022",
-      "summary": "• Conducted research on Neural Machine Translation distillation, including Hinton, DistilBERT, and
-      sequence-level interpolation knowledge distillation for Transformer NMT model architectures as part of
-      the Conversational AI team.
-      • Developed a semi-supervised, hybrid distillation combining word-level and sequence-level interpolation
-      distillation for NMT, and implemented NMT distillation as a part of the open-sourced
-      DistillationModelPT framework in NeMo.",
+      "summary": "",
       "highlights": [
         "Natural Language Processing",
         "Machine Learning",
@@ -85,11 +77,7 @@
       "url": "",
       "startDate": "2021",
       "endDate": "2022",
-      "summary": "Completed AI for Climate Change Bootcamp advised by Prof. Andrew Ng. Developed weakly
-      supervised global well-pad detection models with Detectron2, leveraging self-training and distillation
-      with a noisy student approach [Xie et al.,
-        2020
-      ] for remote sensing in geologic structural basins.",
+      "summary": "",
       "highlights": [
         "Computer Vision",
         "Machine Learning",
@@ -165,7 +153,7 @@
     },
     {
       "language": "Spanish",
-      "fluency": "Classroom"
+      "fluency": "Classroom study"
     }
   ],
   "interests": [],
