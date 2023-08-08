@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which is bigger: Which is larger, $$\pi^e$$ or $$e^{\pi}$$
-date: 2023-08-07 20:00:00-0000
+date: 2023-08-07 06:00:00-0000
 description: Cool derivative trick.
 tags: derivatives
 categories: mathematics
