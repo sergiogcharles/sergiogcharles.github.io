@@ -12,12 +12,14 @@ related_posts: false
 Which is larger $$\pi^e$$ or $$e^{\pi}$$? 
 Hint: consider $$\log x/x$$.
 
-Suppose $$x>y$$. The key observation is if we take the natural logarithm of both sides, then $$\log x > \log y$$ would imply $$x>y$$ since the logarithm is montonically increasing (and concave). Hence, let $$y=\frac{\log x}{x}$$. Consider the first derivative:
+Suppose $$\alpha>\beta$$. The key observation is if we take the natural logarithm of both sides, then $$\log \alpha > \log \beta$$ would imply $$\alpha>\beta$$ since the logarithm is montonically increasing (and concave). 
+
+Hence, let $$y=\frac{\log x}{x}$$. Consider the first derivative:
 \begin{equation}
 \frac{dy}{dx}=\frac{1}{x^2}-\frac{\log}{x^2}=\frac{1-\log x}{x^2}.
 \end{equation}
 
-Note that $$y'(e)=\frac{1-\log e}{e^2}=0$$ and $$y'(\pi)=\frac{1-\log \pi}{\pi^2}<0$$, as $$\pi > e$$. Indeed, $$y'(x)<0$$ on $$[e,\pi]$$. Notice that $y$(x)$$ has a maximum at $$x=e$$ since $$y'(e)=0$$. Thus,
+Note that $$y'(e)=\frac{1-\log e}{e^2}=0$$ and $$y'(\pi)=\frac{1-\log \pi}{\pi^2}<0$$, as $$\pi > e$$. Indeed, $$y'(x)<0$$ on $$[e,\pi]$$. Notice that $$y$(x)$$ has a maximum at $$x=e$$ since $$y'(e)=0$$. Thus,
 \begin{equation}
 \frac{\log e}{e} > \frac{\log \pi}{\pi}.
 \end{equation}
