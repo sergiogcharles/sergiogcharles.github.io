@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A neat derivative trick
+title: A Neat Derivative Trick
 date: 2023-08-07 06:00:00-0000
-description: Cool derivative trick.
+description: An interesting brainteaser.
 tags: derivatives
 categories: mathematics
 giscus_comments: true
