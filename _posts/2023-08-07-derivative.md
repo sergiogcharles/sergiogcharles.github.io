@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Which is larger, {$\pi^e$} or {$e^{\pi}$}?
+title: Which is larger, $$\pi^e$$ or $$e^{\pi}$$?
 date: 2023-08-07 06:00:00-0000
 description: Cool derivative trick.
 tags: derivatives
