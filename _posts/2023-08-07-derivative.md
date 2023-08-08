@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Which is larger, $\pi^e$ or $e^{\pi}$?
+title: Which is larger, {$\pi^e$} or {$e^{\pi}$}?
 date: 2023-08-07 06:00:00-0000
 description: Cool derivative trick.
 tags: derivatives
@@ -9,7 +9,7 @@ giscus_comments: true
 related_posts: false
 ---
 
-Which is larger $$\pi^e$$ or $$e^{\pi}$$? Hint: consider $\log x/x$.
+Which is larger $$\pi^e$$ or $$e^{\pi}$$? Hint: consider $$\log x/x$$.
 
 Suppose $$x>y$$. If we take the natural logarithm of both sides, then $$\log x > \log y$$ would imply $$x>y$$ since the logarithm is montonically increasing (and concave). Hence, let $$y=\frac{\log x}{x}$$. Consider the first derivative:
 \begin{equation}
