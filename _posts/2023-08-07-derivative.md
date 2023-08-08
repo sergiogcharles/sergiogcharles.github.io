@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which is bigger: Which is larger, $$\pi^e$$ or $$e^{\pi}$$
-date: 2023-08-07 21:00:00-0000
+date: 2023-08-07 20:00:00-0000
 description: Cool derivative trick.
 tags: derivatives
 categories: mathematics
@@ -21,6 +21,6 @@ Note that $$y'(e)=\frac{1-\log e}{e^2}=0$$ and $$y'(\pi)=\frac{1-\log \pi}{\pi^2
 \frac{\log e}{e} > \frac{\log \pi}{\pi}.
 \end{equation}
 
-It follows that $\pi \log e>e\log \pi$ or $e^\pi>\pi^e$. 
+It follows that $$\pi \log e>e\log \pi$$ or $$e^\pi>\pi^e$$. 
 
-One can also use a Taylor series for $e^x=\sum_{n=0}^{\infty}\frac{x^n}{n!}$, substituting $x=\frac{\pi}{e}-1$ to see this, albeit less intutivie.
+One can also use a Taylor series for $$e^x=\sum_{n=0}^{\infty}\frac{x^n}{n!}$$, substituting $$x=\frac{\pi}{e}-1$$ to see this, albeit less intutivie.
