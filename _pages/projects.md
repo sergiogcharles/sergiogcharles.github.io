@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Page under construction. To be updated with trading + ml projects.
+description: A collection of past math research, internship, machine learning, and trading projects.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
