@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ALPS Quantitative Research
-description: My summer project on Macroeconomic Asset Divergence (MAD).
-img: assets/img/12.jpg
+description: My summer research project on Macroeconomic Asset Divergence (MAD).
+img: assets/img/mad.png
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
 
-Every project has a beautiful feature showcase page.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -19,12 +19,12 @@ To give your project a background in the portfolio page, just add the img tag to
     title: project
     description: a project with a background image
     img: /assets/img/12.jpg
-    ---
+    --- -->
 
 <div class="caption">
     <body>
     <center>
-        <h1 style="color: green">GeeksforGeeks</h1>
+        <h1 style="color: blue">Macroeconomic Asset Divergence Model</h1>
         <h3>Embedding the PDF file Using Iframe Tag</h3>
         <iframe src="../ALPS_presentation_final.pdf" 
                 width="800"
@@ -34,7 +34,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </body>
 </div>
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -91,4 +91,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->
