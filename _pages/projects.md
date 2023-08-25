@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Page under construction. To be updated with trading + ml projects.
-nav: false
+nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
