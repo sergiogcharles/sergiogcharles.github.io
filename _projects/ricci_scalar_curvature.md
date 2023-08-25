@@ -3,7 +3,7 @@ layout: page
 title: On the Algebro-Geometric Analysis of Meromorphic (1,0)-forms
 description: Investigating the Ricci-scalar curvature of a {$\Lambda$}-CDM universe.
 img: assets/img/lcdm.png
-importance: 6
+importance: 7
 category: work
 related_publications: 
 ---
