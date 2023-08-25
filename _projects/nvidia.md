@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine Learning Research
+title: Nvidia Machine Learning Research
 description: My internship research on Neural Machine Translation Distillation.
 img: assets/img/distillation.png
 importance: 3
