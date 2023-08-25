@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: ALPS Quantitative Research
+description: My summer project on Macroeconomic Asset Divergence (MAD).
 img: assets/img/12.jpg
 importance: 1
 category: work
@@ -21,7 +21,7 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
-<embed src="http://example.com/the.pdf" width="500" height="375" 
+<embed src="https://github.com/sergiogcharles/sergiogcharles.github.io/blob/master/projects_pdfs/ALPS_presentation_final.pdf" width="500" height="375" 
  type="application/pdf">
 
 <div class="row">
