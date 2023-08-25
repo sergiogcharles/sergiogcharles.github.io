@@ -21,16 +21,16 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     --- -->
 
-<!-- <div class="caption"> -->
+<div class="caption">
     <body>
     <center>
         <!-- <h1 style="color: DodgerBlue">Macroeconomic Asset Divergence Model</h1> -->
-        <h5 align="left">Macroeconomic Asset Divergence Model Presentation</h5>
+        <h6 align="left">Macroeconomic Asset Divergence Model Presentation</h6>
         <iframe src="../ALPS_presentation_final.pdf" 
                 width="800"
                 height="500">
         </iframe>
     </center>
 </body>
-<!-- </div> -->
+</div>
 
