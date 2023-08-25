@@ -2,7 +2,7 @@
 layout: page
 title: Machine Learning Research
 description: My internship research on Neural Machine Translation Distillation.
-img:
+img: assets/img/distillation.png
 importance: 3
 category: work
 ---

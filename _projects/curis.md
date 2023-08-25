@@ -2,7 +2,7 @@
 layout: page
 title: CURIS Research
 description: My CURIS summer research on Model-based Autonomous Reinforcement Learning, advised by Archit Sharma and Prof. Chelsea Finn.
-img: assets/img/3.jpg
+img: assets/img/curis.png
 importance: 2
 category: work
 giscus_comments: true
