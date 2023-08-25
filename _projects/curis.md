@@ -5,7 +5,7 @@ description: My CURIS summer research on Model-based Autonomous Reinforcement Le
 img: assets/img/curis.png
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 <div class="caption">
