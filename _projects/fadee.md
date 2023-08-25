@@ -3,8 +3,8 @@ layout: page
 title: Faster Adaptation for Decoupled Exploration and Exploitation
 description: a project with a background image
 img: assets/img/1.jpg
-importance: 3
-category: fun
+importance: 4
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

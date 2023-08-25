@@ -4,7 +4,7 @@ title: Machine Learning Research
 description: another without an image
 img:
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
