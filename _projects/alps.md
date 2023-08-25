@@ -21,6 +21,7 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
+<div>
  <body>
     <center>
         <h1 style="color: green">GeeksforGeeks</h1>
@@ -32,6 +33,7 @@ To give your project a background in the portfolio page, just add the img tag to
         </object>
     </center>
 </body>
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
