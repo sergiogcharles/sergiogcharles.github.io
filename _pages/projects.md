@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
 description: A collection of past math research, internship, machine learning, and trading projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work, side-projects]
 horizontal: false
 ---
 

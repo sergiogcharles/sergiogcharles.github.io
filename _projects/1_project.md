@@ -21,8 +21,7 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
-<embed src="https://github.com/sergiogcharles/sergiogcharles.github.io/blob/master/projects_pdfs/ALPS_presentation_final.pdf" width="500" height="375" 
- type="application/pdf">
+ <embed src="https://github.com/sergiogcharles/sergiogcharles.github.io/blob/master/projects_pdfs/ALPS_presentation_final.pdf" width="500" height="375">
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
