@@ -26,7 +26,7 @@ To give your project a background in the portfolio page, just add the img tag to
     <center>
         <h1 style="color: green">GeeksforGeeks</h1>
         <h3>Embedding the PDF file Using Iframe Tag</h3>
-        <iframe src="https://github.com/sergiogcharles/sergiogcharles.github.io/blob/master/projects_pdfs/ALPS_presentation_final.pdf" 
+        <iframe src="../ALPS_presentation_final.pdf" 
                 width="800"
                 height="500">
         </iframe>
