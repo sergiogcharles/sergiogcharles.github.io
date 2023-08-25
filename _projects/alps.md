@@ -21,7 +21,7 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
- <embed src="../project_pdfs/APLS_presentation_final.pdf" width="800px" height="2100px" />
+ <embed src="../project_pdfs/ALPS_presentation_final.pdf" width="800px" height="2100px" />
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
