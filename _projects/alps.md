@@ -21,7 +21,17 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
- <embed src="ALPS_presentation_final.pdf" width="800px" height="800px" />
+ <body>
+    <center>
+        <h1 style="color: green">GeeksforGeeks</h1>
+        <h3>Embedding the PDF file Using Object Tag</h3>
+        <object data=
+"ALPS_presentation_final.pdf" 
+                width="800"
+                height="500">
+        </object>
+    </center>
+</body>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
