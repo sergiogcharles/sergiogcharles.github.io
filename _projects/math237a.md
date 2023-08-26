@@ -1,9 +1,9 @@
 ---
 layout: page
-title: On the Time Evolution of Ricci Scalar Curvature in the Late Epoch for a Lambda-CDM-Parameterized Universe
-description: Investigating the primordial Ricci-scalar curvature of a {$\Lambda$}-CDM universe.
-img: assets/img/lcdm.png
-importance: 7
+title: Deep Reinforcement Learning for Market Making Under a Hawkes Process-Based Limit Order Book Model
+description: Exposition of MM under a Hawkes process-based LOB.
+img: assets/img/math237a.png
+importance: 11
 category: work
 related_publications: 
 ---
@@ -24,8 +24,8 @@ To give your project a background in the portfolio page, just add the img tag to
     <body>
     <center>
         <!-- <h1 style="color: DodgerBlue">Macroeconomic Asset Divergence Model</h1> -->
-        <h6 align="left">Research Paper on the Time Evolution of Ricci Scalar Curvature in the Late Epoch for a Lambda-CDM-Parameterized Universe</h6>
-        <iframe src="../Time_Evolution_of_Ricci_Scalar_Curvature_in_the_Late_Epoch_for_a_Lambda-CDM_Universe.pdf" 
+        <h6 align="left">Presentation on Deep Reinforcement Learning for Market Making Under a Hawkes Process-Based Limit Order Book Model</h6>
+        <iframe src="../Math_237A_Presentation.pdf" 
                 width="800"
                 height="500">
         </iframe>

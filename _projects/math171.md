@@ -1,9 +1,9 @@
 ---
 layout: page
-title: On the Time Evolution of Ricci Scalar Curvature in the Late Epoch for a Lambda-CDM-Parameterized Universe
-description: Investigating the primordial Ricci-scalar curvature of a {$\Lambda$}-CDM universe.
-img: assets/img/lcdm.png
-importance: 7
+title: An Exposition of the Arzèla-Ascoli Theorem
+description: Exposition of the Arzèla-Ascoli Theorem completed for Math 171.
+img: assets/img/171.png
+importance: 11
 category: work
 related_publications: 
 ---
@@ -24,8 +24,8 @@ To give your project a background in the portfolio page, just add the img tag to
     <body>
     <center>
         <!-- <h1 style="color: DodgerBlue">Macroeconomic Asset Divergence Model</h1> -->
-        <h6 align="left">Research Paper on the Time Evolution of Ricci Scalar Curvature in the Late Epoch for a Lambda-CDM-Parameterized Universe</h6>
-        <iframe src="../Time_Evolution_of_Ricci_Scalar_Curvature_in_the_Late_Epoch_for_a_Lambda-CDM_Universe.pdf" 
+        <h6 align="left">An Exposition of the Arzèla-Ascoli Theorem</h6>
+        <iframe src="../Math_171_WIM.pdf" 
                 width="800"
                 height="500">
         </iframe>
