@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes so cial icons at the bottom of the page
 ---
 
-I am a recent graduate of Stanford University, where I studied mathematics and computer science, with a concentration in artificial intelligence and machine learning. I will be returning to complete my co-terminal Masters in statistics. I am particularly interested in mathematical modeling, probability theory, stochastic processes, and optimization theory. I have also done research in pure mathematics, reinforcement learning and natural language processing. I am seeking opportunities in machine learning and quantitative finance, e.g. quant hedge fund, high frequency trading, and market maker roles. In the fall, I will be working at [QuantRes Asset Management](https://quantres.com/) as a quantitative trading intern.
+I am a recent graduate of Stanford University, where I studied mathematics and computer science, with a concentration in artificial intelligence and machine learning. I will be returning to complete my co-terminal Masters in statistics. I am particularly interested in mathematical modeling, probability theory, stochastic processes, and optimization theory. I have also done research in pure mathematics, reinforcement learning and natural language processing. I am seeking new opportunities in machine learning. In the fall, I will be working at [QuantRes Asset Management](https://quantres.com/) as a quantitative research intern.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
