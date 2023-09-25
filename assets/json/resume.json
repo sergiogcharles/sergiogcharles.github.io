@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Sergio Charles",
-    "label": "Mathematician & Student",
+    "label": "Student",
     "image": "",
     "email": "sergiocharles@alumni.stanford.edu",
     "phone": "",
     "url": "",
-    "summary": "A student of mathematics and statistics, interested in formulating models of the real-world.",
+    "summary": "A student of mathematics, computer science, and statistics, interested in formulating models of the real-world.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -25,14 +25,14 @@
   "work": [
     {
       "name": "QuantRes Asset Management",
-      "position": "Quantitative Trading Intern",
+      "position": "Quantitative Research Intern",
       "url": "https://quantres.com/",
       "startDate": "Oct 2023",
-      "summary": "Trading in the global futures, equities and foreign exchange markets.",
+      "summary": "Researching and implementing statistical models for trading in the global futures, equities and foreign exchange markets.",
       "highlights": []
     },
     {
-      "name": "SS&C Alps Funds",
+      "name": "SS&C Technologies, Alps Funds",
       "position": "Quantitative Research Intern",
       "url": "https://www.alpsfunds.com/",
       "startDate": "June 2023",
