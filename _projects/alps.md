@@ -3,7 +3,7 @@ layout: page
 title: ALPS Quantitative Research
 description: My summer research project on Macroeconomic Asset Divergence (MAD).
 img: assets/img/mad.png
-importance: 1
+importance: 10
 category: work
 related_publications: 
 ---
