@@ -21,7 +21,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes so cial icons at the bottom of the page
 ---
 
-I am a recent graduate of Stanford University, where I studied mathematics and computer science, with a concentration in artificial intelligence and machine learning. I will be returning to complete my Masters in statistics. I have also done research in pure mathematics, reinforcement learning and natural language processing. I am excited about the opportunity to leverage machine learning approaches to solve dynamic, real-world problems in technology, particularly robotics. In my opinion, the most compelling realization of artificial intelligence is with everyday physical assistants. My goal is to create end-to-end physical agents that can few-shot learn and rapidly generalize to a distribution of unseen tasks. I am currently working at [QuantRes](https://quantres.com/), where I apply machine learning for quantitative trading.
+I am a recent graduate of Stanford University, where I studied mathematics and computer science, with a concentration in artificial intelligence and machine learning. I will be returning to complete my Masters in statistics. I have also done research in pure mathematics, reinforcement learning and natural language processing. 
+
+I am excited about the opportunity to leverage machine learning approaches to solve dynamic, real-world problems in technology, particularly robotics. In my opinion, the most compelling realization of artificial intelligence is with everyday physical assistants. My goal is to create end-to-end physical agents that can few-shot learn and rapidly generalize to a distribution of unseen tasks. I am currently working at [QuantRes](https://quantres.com/), where I apply machine learning to quantitative trading.
 
 <!-- I am seeking new opportunities in artificial intelligence/machine learning, particularly related to robotics and grounding control with natural language. I am currently working at [QuantRes](https://quantres.com/), where I apply machine learning for quantitative trading. -->
 
