@@ -23,7 +23,7 @@ social: true  # includes so cial icons at the bottom of the page
 
 I am a recent graduate of Stanford University, where I studied mathematics and computer science, with a concentration in artificial intelligence and machine learning. I will be returning to complete my Masters in statistics. I have also done research in pure mathematics, reinforcement learning and natural language processing. 
 
-I am excited about the opportunity to leverage machine learning approaches to solve dynamic, real-world problems in technology, particularly robotics. In my opinion, the most compelling realization of artificial intelligence is with everyday physical assistants. My goal is to create end-to-end physical agents that can few-shot learn and rapidly generalize to a distribution of unseen tasks. I am currently working at [QuantRes](https://quantres.com/), where I apply machine learning to quantitative trading.
+I am excited about the opportunity to leverage machine learning approaches to solve dynamic, real-world problems in technology, particularly robotics. In my opinion, the most compelling realization of artificial intelligence is with everyday physical assistants. My goal is to create end-to-end embodied agents that can few-shot learn and rapidly generalize to a distribution of unseen tasks. I am currently working at [QuantRes](https://quantres.com/), where I apply machine learning to quantitative trading.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
