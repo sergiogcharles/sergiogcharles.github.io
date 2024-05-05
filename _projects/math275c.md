@@ -25,7 +25,7 @@ To give your project a background in the portfolio page, just add the img tag to
     <center>
         <!-- <h1 style="color: DodgerBlue">Macroeconomic Asset Divergence Model</h1> -->
         <h6 align="left">Paper Summary on Auto-Encoding Variational Bayes</h6>
-        <iframe src="../Math_275C__Auto_Encoding_Variational_Bayes.pdf" 
+        <iframe src="../Math_275C_Auto_Encoding_Variational_Bayes.pdf" 
                 width="800"
                 height="500">
         </iframe>
