@@ -5,7 +5,7 @@ date: 2023-08-07 06:00:00-0000
 description: An interesting brainteaser.
 tags: derivatives
 categories: mathematics
-giscus_comments: true
+giscus_comments: false
 related_posts: false
 ---
 
