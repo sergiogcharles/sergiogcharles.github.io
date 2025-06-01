@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Stanford University</a>
+# subtitle: <a href='#'>Stanford University</a>
 # Stanford, CA.
 
 profile:
