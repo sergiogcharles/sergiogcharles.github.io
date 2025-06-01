@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes so cial icons at the bottom of the page
 ---
 
-I am pursuing an M.S. in Statistics at Stanford University, with a focus on artificial intelligence and machine learning. I have a B.S. in Mathematics and Computer Science. I have done research in pure mathematics, reinforcement learning and natural language processing. I am particularly interested in deep generative models and reinforcement learning for physical AI and scientific discovery.
+I do ML at Google X, The Moonshot Factory. I have an M.S. in Statistics and B.S. in Mathematics and Computer Science, with a focus in AI/ML from Stanford. I've done research in pure mathematics, reinforcement learning and natural language processing. I have an entrepreneurial spirit and I'm particularly interested in reinforcement learning for physical AI and scientific discovery.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
