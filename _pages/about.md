@@ -21,5 +21,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes so cial icons at the bottom of the page
 ---
 
-I work on machine learning at Google X, The Moonshot Factory. With an M.S. in Statistics and a B.S. in Math and Computer Science from Stanford, my background spans pure math, reinforcement learning, and natural language processing. 
+I'm currently doing ML at Google X, The Moonshot Factory. With an M.S. in Statistics and a B.S. in Math and Computer Science from Stanford, my background spans pure math, reinforcement learning, and natural language processing. 
 I've contributed to research and projects ranging from neural machine translation to autonomous RL for robotics. I'm driven by an entrepreneurial spirit and deeply interested in applying RL to scientific discovery and physical AI systems.
