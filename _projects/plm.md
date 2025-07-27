@@ -1,9 +1,9 @@
 ---
 layout: page
-title: CURIS Research
+title: protein language model distillation research
 description: My STATS 326 project on protein language model distillation.
-img: assets/img/curis.png
-importance: 1
+img: assets/img/plm.png
+importance: 4
 category: work
 giscus_comments: false
 ---

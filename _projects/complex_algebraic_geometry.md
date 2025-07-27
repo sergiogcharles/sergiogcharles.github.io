@@ -3,7 +3,7 @@ layout: page
 title: On the Algebro-Geometric Analysis of Meromorphic (1,0)-forms
 description: My research on the theory of meromorphic (1,0)-forms.
 img: assets/img/algebraic_geometry.png
-importance: 5
+importance: 10
 category: work
 related_publications: 
 ---

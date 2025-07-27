@@ -3,7 +3,7 @@ layout: page
 title: Deep Reinforcement Learning for Market Making Under a Hawkes Process-Based Limit Order Book Model
 description: Exposition of MM under a Hawkes process-based LOB.
 img: assets/img/math237a.png
-importance: 4
+importance: 9
 category: work
 related_publications: 
 ---

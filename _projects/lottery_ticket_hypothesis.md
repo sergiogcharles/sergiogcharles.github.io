@@ -3,7 +3,7 @@ layout: page
 title: LNAS-Lottery Ticket Neural Architecture Search
 description: Research on method that combines Neural Architecture Search (NAS) and the lottery ticket hypothesis.
 img: assets/img/lnas.png
-importance: 8
+importance: 13
 category: work
 related_publications: 
 ---

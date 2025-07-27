@@ -3,7 +3,7 @@ layout: page
 title: Paper Summary-Auto-Encoding Variational Bayes
 description: An exposition of Variational Auto-Encoders (VAEs).
 img: assets/img/math275c.png
-importance: 11
+importance: 6
 category: work
 related_publications: 
 ---

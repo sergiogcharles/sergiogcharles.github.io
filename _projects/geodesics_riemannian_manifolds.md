@@ -3,7 +3,7 @@ layout: page
 title: The Existence of Infinitely Many Geometrically Distinct Non-Constant Prime Closed Geodesics on Riemannian Manifolds
 description: My research in algebraic topology and differential geometry for the Science Talent Search.
 img: assets/img/geodesics.png
-importance: 6
+importance: 7
 category: work
 related_publications: 
 ---
