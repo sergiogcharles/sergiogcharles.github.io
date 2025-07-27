@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of past math research, internship, machine learning, and trading projects.
+description: A collection of my past projects.
 nav: true
 nav_order: 2
 display_categories: [work, side-projects]
