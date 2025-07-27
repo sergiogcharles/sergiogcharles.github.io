@@ -3,7 +3,7 @@ layout: page
 title: On the Time Evolution of Ricci Scalar Curvature in the Late Epoch for a Lambda-CDM-Parameterized Universe
 description: Investigating the primordial Ricci-scalar curvature of a Lambda-CDM universe.
 img: assets/img/lcdm.png
-importance: 7
+importance: 11
 category: work
 related_publications: 
 ---

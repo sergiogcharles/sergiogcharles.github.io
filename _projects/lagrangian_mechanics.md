@@ -3,7 +3,7 @@ layout: page
 title: The Lagrangian Mechanics and Pseudo-Periodicity of The Many-Body Planar Pendulum System
 description: My physics research, studying the Lagrangian mechanics of a many-body pendulum.
 img: assets/img/pendulum.png
-importance: 8
+importance: 12
 category: work
 related_publications: 
 ---

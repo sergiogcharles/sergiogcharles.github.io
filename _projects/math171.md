@@ -3,7 +3,7 @@ layout: page
 title: An Exposition of the Arzèla-Ascoli Theorem
 description: Exposition of the Arzèla-Ascoli Theorem completed for Math 171.
 img: assets/img/171.png
-importance: 11
+importance: 14
 category: work
 related_publications: 
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Quant-Noisier-Second-Order Quantization Noise
 description: CS224N research project on using a variable quantization noise rate to learn robustness to inference-time quantization.
 img: assets/img/quant_noise.png
-importance: 10
+importance: 5
 category: work
 related_publications: 
 ---
