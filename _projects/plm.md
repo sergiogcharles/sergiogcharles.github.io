@@ -2,7 +2,7 @@
 layout: page
 title: protein language model distillation research
 description: My STATS 326 project on protein language model distillation.
-img: assets/img/plm.png
+img: assets/img/plm.jpg
 importance: 4
 category: work
 giscus_comments: false
