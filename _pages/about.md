@@ -21,5 +21,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes so cial icons at the bottom of the page
 ---
 
-I'm currently an AI Resident at Google X, The Moonshot Factory. With an M.S. in Statistics and a B.S. in Math and Computer Science from Stanford, my background spans pure math, reinforcement learning, and natural language processing. 
-I've contributed to research and projects ranging from neural machine translation to autonomous RL for robotics. I'm driven by an entrepreneurial spirit and deeply interested in applying RL to scientific discovery and physical AI systems.
+I'm a co-founder of Thesis Labs, accelerating AI for scientific discovery. Previously, I was a an AI Resident at Google X. With an M.S. in Statistics and a B.S. in Math and Computer Science from Stanford, my background spans pure math, reinforcement learning, and natural language processing. I've contributed to research and projects ranging from neural machine translation to autonomous RL for robotics.
