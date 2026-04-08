@@ -3,7 +3,7 @@ layout: page
 title: LAMANAS-Loss Agnostic and Model Agnostic Meta Neural Architecture Search for Few-Shot Learning
 description: Research on a novel neural architecture search method that is loss and model agnostic.
 img: assets/img/lamanas.png
-importance: 9
+importance: 11
 category: work
 related_publications: 
 ---

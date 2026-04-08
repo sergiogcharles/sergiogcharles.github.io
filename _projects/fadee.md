@@ -3,7 +3,7 @@ layout: page
 title: Faster Adaptation for Decoupled Exploration and Exploitation
 description: CS330 (Deep Multi-Task & Meta-Learning) Final Project
 img: assets/img/basic.png
-importance: 8
+importance: 9
 category: work
 ---
 
