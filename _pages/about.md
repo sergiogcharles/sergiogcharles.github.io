@@ -21,4 +21,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes so cial icons at the bottom of the page
 ---
 
-I'm a co-founder of [Darwin](https://darwinrobotics.ai), building humanoid robots for real-world work. I previously worked at Google X and NVIDIA, and in the Stanford AI Lab with Chelsea Finn and Andrew Ng. I earned an M.S. in Statistics and a B.S. in Mathematics and Computer Science from Stanford. My prior work spans pure math, reinforcement learning, and natural language processing, from neural machine translation to autonomous RL for robotics.
+I’m a co-founder of [Darwin](https://darwinrobotics.ai), where we build general-purpose robots for assembling and maintaining the physical infrastructure of civilization, starting with AI infrastructure. Previously, I worked on AI R&D at Google X, NVIDIA, and the Stanford AI Lab, including autonomous RL for robotics with Chelsea Finn and computer vision with Andrew Ng. I earned a B.S. in Mathematics and Computer Science and an M.S. in Statistics from Stanford. My background spans pure math, reinforcement learning, and natural language processing.
