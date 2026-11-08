@@ -21,4 +21,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes so cial icons at the bottom of the page
 ---
 
-I’m the co-founder & CEO of [Darwin](https://darwinrobotics.ai), building general-purpose robot technicians for critical infrastructure, starting with data centers. Previously, I worked on AI R&D at Google X, NVIDIA, and the Stanford AI Lab, including autonomous RL for robotics with Chelsea Finn and computer vision with Andrew Ng. I earned a B.S. in Mathematics and Computer Science and an M.S. in Statistics from Stanford. My background spans pure math, reinforcement learning, and natural language processing.
+I’m the co-founder & CEO of [Darwin](https://darwinrobotics.ai), building general-purpose robot technicians for critical infrastructure, starting with data centers. Previously, I worked on AI R&D at Google X, NVIDIA, and the Stanford AI Lab, including autonomous RL for robotics with Chelsea Finn and computer vision with Andrew Ng. I earned a B.S. in Mathematics and Computer Science and an M.S. in Statistics from Stanford. My background spans pure math, reinforcement learning, and natural language processing. 
